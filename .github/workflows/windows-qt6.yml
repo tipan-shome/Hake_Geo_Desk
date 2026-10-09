@@ -1,6 +1,7 @@
 ---
 name: 🪟 Windows Qt6
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
